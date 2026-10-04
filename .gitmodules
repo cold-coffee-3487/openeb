@@ -1,0 +1,3 @@
+[submodule "third_party/ir-mel"]
+	path = third_party/ir-mel
+	url = https://gitlab.com/open-arsenal/ams-gra/hello-world-sk/interfaces/ir-mel.git
